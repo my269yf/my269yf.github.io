@@ -4,7 +4,7 @@ title:      "这是我的第一篇博客，欢迎阅览"
 subtitle:   "Welcome to reading!"
 date:       2024-10-12 21:29:00
 author:     "Mr.YF"
-header-img: "t0105c03978f0adef4b.jpg"
+header-img: "img/t0105c03978f0adef4b.jpg"
 tags:
     - 博客
     - blog
