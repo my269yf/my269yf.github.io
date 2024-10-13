@@ -13,8 +13,8 @@ tags:
 我将提供我的联系方式和B站主页，大家可以对我的博客网站，文章，B站内容提出建议。如果有什么想看的教程或者有趣的东西也可以告诉我，我将不定期发布文章和视频！
 
 # 我的联系方式
-> [QQ邮箱](my269yf@qq.com)，
-> [Outlook邮箱](lp19355605908@outlook.com)
+> my269yf@qq.com，
+> lp19355605908@outlook.com
 
 # 我的Bilibili账号主页
 > [八哥269](https://space.bilibili.com/620822520?spm_id_from=333.1007.0.0)
