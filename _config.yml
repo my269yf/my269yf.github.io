@@ -1,9 +1,9 @@
 # Site settings
-title: 云飞的Blog
+title: Mr.YF的博客
 SEOTitle: 云飞的博客 | Mr.YF Blog
-header-img: img/IMG_20240615_122936_013.jpg
-email: my269yf@gmail.com
-description: "这里是 @Mr.YF 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+header-img: img/IMG_20240612_034828_171.jpg
+email: my269yf@qq.com
+description: "这里是 @Mr.YF 的个人博客，欢迎观看与交流！"
 keyword: "blog"
 url: "https://my269yf.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -62,7 +62,7 @@ kramdown:
 disqus_username: Mr.YF
 
 # Netease settings
-netease_comment: true
+netease_comment: false
 
 # Analytics settings
 # Baidu Analytics
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Mr.YF from China"
-sidebar-avatar: /img/IMG_20240702_164625_541.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/file/logo2.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: false # whether or not using Feature-Tags
