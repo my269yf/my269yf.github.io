@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[置顶]通知：我的联系方式"
+title:      "［置顶］通知：我的联系方式"
 subtitle:   "欢迎联系我！"
 date:       2099-10-13 13:48:00
 author:     "Mr.YF"
