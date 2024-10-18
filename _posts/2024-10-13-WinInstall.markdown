@@ -4,7 +4,7 @@ title:      "安装Windows系统的两种方法"
 subtitle:   "PE和官方程序该怎么选？怎么用？"
 date:       2024-10-13 12:54:00
 author:     "Mr.YF"
-header-img: "img/IMG_20240615_123046_074.jpg"
+header-img: "img/default.jpg"
 tags:
     - 计算机
     - 系统

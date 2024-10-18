@@ -4,7 +4,7 @@ title:      "［置顶］通知：我的联系方式"
 subtitle:   "欢迎联系我！"
 date:       2099-10-13 13:48:00
 author:     "Mr.YF"
-header-img: "img/IMG_20240615_123046_074.jpg"
+header-img: "img/default.jpg"
 tags:
     - 计算机
     - 软件
