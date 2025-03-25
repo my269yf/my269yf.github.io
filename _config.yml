@@ -75,7 +75,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Mr.YF from China"
-sidebar-avatar: img/file/logo2.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/file/YF-gradient green-logo.svg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: false # whether or not using Feature-Tags
